@@ -10,9 +10,12 @@ Usage
 -----
 
 ```sh
-locco --source=src/**/*.js --adapter=markdown \
-      --comment=// --escape=! --adapter-readme=locco.js
+locco --adapter-readme=locco.js --source=src/**/*.js --adapter=markdown
 ```
+
+Options:
+
+- _optional_ `adapter-readme`: file to be used as source for README.md
 
 Methods
 -------
