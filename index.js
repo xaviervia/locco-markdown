@@ -117,3 +117,13 @@ example("general README path should be configurable", function () {
 })
 
 module.exports = LoccoMarkdown
+
+//
+// License
+// -------
+//
+// Copyright 2014 Xavier Via
+//
+// ISC license.
+//
+// See [LICENSE](LICENSE) attached
